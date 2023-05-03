@@ -1,2 +1,2 @@
 # golang_practice
-practice projecrt for golang
+practice project for golang
